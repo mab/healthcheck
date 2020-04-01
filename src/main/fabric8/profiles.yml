@@ -1,0 +1,8 @@
+- name: default
+  enricher:
+    excludes:
+      - fmp-git
+      - f8-icon
+      - f8-prometheus
+      - fmp-maven-scm
+      - fmp-openshift-service-expose
